@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[To-do List](https://nachosala89.github.io/to-do-list/dist/)
+[To-do List](https://nachosala89.github.io/copy-to-do-list/dist/)
 
 ## Getting Started
 
